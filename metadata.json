@@ -1,0 +1,8 @@
+{
+  "name": "DreamApo_Final",
+  "description": "Completed and fully working Dream Application",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
